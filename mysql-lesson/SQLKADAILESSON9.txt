@@ -1,0 +1,12 @@
+1. mysql> CREATE DATABASE kadaidb;
+
+2. mysql> USE kadaidb;
+
+3. mysql> CREATE TABLE person (
+            id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+            name VARCHAR(50),
+            age INT,
+            created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+            );
+            
+4. mysql> INSERT INTO person (name, age) VALUES ("TAROU", 20);

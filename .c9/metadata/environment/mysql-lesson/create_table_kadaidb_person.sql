@@ -1,0 +1,1 @@
+{"mime":"application/octet-stream","filter":false,"title":"create_table_kadaidb_person.sql","tooltip":"/mysql-lesson/create_table_kadaidb_person.sql","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1653533983952,"hash":"0768cc233e131ca00c83d34afbed077529aca7df"}

@@ -1,0 +1,19 @@
+これはターミナルの課題です。
+
+
+
+
+1. ~/environment ディレクトリの直下に移動する
+cd environment
+
+2. ~/environment ディレクトリの直下で kadai-terminal ディレクトリを作成する
+mkdir kadai-terminal
+
+3.  先ほど作成した kadai-terminal へ現在のディレクトリを移動する
+cd kadai-terminal
+
+4.  kadai-terminal の直下で memo.txt を空ファイルとして作成する
+touch memo.txt
+
+5. lessで kadai-terminal の直下の memo.txt を開く
+less kadai-terminal
