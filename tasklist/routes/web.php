@@ -11,6 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::resoure('Task', 'TasksController');
+Route::index('Task', 'TasksController@index');
+Route::show('Task', 'TasksController@show');
+Route::show('Task', 'TasksController@create');
+Route::edit('Task', 'TasksController@edit');
